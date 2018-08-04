@@ -1,0 +1,2 @@
+# psuedoAllStarTemplate
+オールスター感謝祭風パワポテンプレート
